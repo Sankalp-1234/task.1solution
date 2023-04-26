@@ -1,0 +1,18 @@
+# Problem no 1
+#write a program to find the cube of 36. 
+
+#solution
+a = 36
+print(a*a*a)
+
+# Problem no 2
+# Apply all the types of Arithmetic Operators on the following Variables:
+#     a = 40
+#     b = 5
+
+print(a+b)
+print(a*b)
+print(a-b)
+print(a/b)
+print(a%b)
+print(a//b)
